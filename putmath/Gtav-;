@@ -1,0 +1,11 @@
+- Load MonyESP
+		Languaje GTAV load;
+			'Lenguaje MonyESP cargado correctamente'
+		; 
+; fuction AK_LE;
+	- Locator
+		-- LoadS++:
+	Message: 'Cargando...'
+++;else ALL: !++
+	'No ha cargado nada';
+;
